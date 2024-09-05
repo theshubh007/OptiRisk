@@ -84,7 +84,7 @@ Returns:
   "CVaR": -0.07,
   "Max Drawdown": -0.2
 }
-
+```
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or features.
